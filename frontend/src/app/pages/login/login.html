@@ -1,0 +1,39 @@
+<div class="container mt-5">
+  <div class="row justify-content-center">
+    <div class="col-md-5">
+      <div class="card shadow">
+        <div class="card-body">
+          <h2 class="text-center mb-4">Login</h2>
+
+          <div class="mb-3">
+            <label class="form-label">Usuario o correo</label>
+            <input
+              type="text"
+              class="form-control"
+              [(ngModel)]="usuarioCorreo"
+              name="usuarioCorreo"
+            >
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label">Contraseña</label>
+            <input
+              type="password"
+              class="form-control"
+              [(ngModel)]="password"
+              name="password"
+            >
+          </div>
+
+          <div *ngIf="mensaje" class="alert alert-danger">
+            {{ mensaje }}
+          </div>
+
+          <button class="btn btn-primary w-100" (click)="iniciarSesion()">
+            Iniciar sesión
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
