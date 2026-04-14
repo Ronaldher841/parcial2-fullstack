@@ -2,17 +2,17 @@
 
 
 
-\## 👨‍💻 Descripción
+## 👨‍💻 Descripción
 
 Este proyecto consiste en una aplicación web full stack desarrollada con:
 
 
 
-\- Frontend: Angular
+- Frontend: Angular
 
-\- Backend: Node.js con Express
+- Backend: Node.js con Express
 
-\- Base de datos: PostgreSQL
+- Base de datos: PostgreSQL
 
 
 
@@ -20,31 +20,31 @@ El sistema permite autenticación de usuarios y gestión de perfil.
 
 
 
-\---
+---
 
 
 
-\## 🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 
 
-\### 🔐 Login
+### 🔐 Login
 
-\- Validación de usuario/correo y contraseña
+- Validación de usuario/correo y contraseña
 
-\- Verificación contra base de datos
+- Verificación contra base de datos
 
-\- Manejo de errores
+- Manejo de errores
 
 
 
-\### 👤 Perfil
+### 👤 Perfil
 
-\- Crear perfil
+- Crear perfil
 
-\- Actualizar perfil
+- Actualizar perfil
 
-\- Validaciones:
+- Validaciones:
 
 &#x20; - Campos obligatorios
 
@@ -56,31 +56,31 @@ El sistema permite autenticación de usuarios y gestión de perfil.
 
 
 
-\---
+---
 
 
 
-\## 🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 
 
 
-\- Angular
+- Angular
 
-\- Node.js
+- Node.js
 
-\- Express
+- Express
 
-\- PostgreSQL
-
-
-
-\---
+- PostgreSQL
 
 
 
+---
 
 
-\## 📂 Estructura del proyecto
+
+
+
+## 📂 Estructura del proyecto
 
 
 
@@ -94,15 +94,15 @@ parcial2-fullstack/
 
 
 
-\---
+---
 
 
 
-\## ⚙️ Ejecución del proyecto
+## ⚙️ Ejecución del proyecto
 
 
 
-\### Backend
+### Backend
 
 ```bash
 
